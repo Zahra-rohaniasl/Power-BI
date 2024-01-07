@@ -1,0 +1,9 @@
+# Boss Leathers - Amazon Sales Analysis
+
+Welcome to the Boss Leathers Amazon Sales Analysis project! In this repository, you'll find the Power BI files and datasets used for analyzing sales data on Amazon. Boss Leathers, a small leather products business, recently started selling its products on Amazon, and this project aims to provide insights into the sales trends and performance.
+
+## Overview
+
+- **Data Source**: Amazon Seller Dataset
+- **Tools Used**: Power BI
+
