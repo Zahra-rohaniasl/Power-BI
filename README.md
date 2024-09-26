@@ -14,8 +14,8 @@ Welcome to my Power BI repository! Here, you'll find a collection of insightful 
 ![Image Alt Text](https://github.com/Zahra-rohaniasl/Power-BI/blob/main/amazon-retail-explorer-boss-leathers-dashboard.png)
 
 - **Project 2: Superstore**
-  - [View Project](https://github.com/Zahra-rohaniasl/Power-BI/blob/main/power-bi-super-store.pbix)
-![Image Alt Text](https://github.com/Zahra-rohaniasl/Power-BI/blob/main/amazon-retail-explorer-boss-leathers-dashboard.png)
+  - [View Project](https://github.com/Zahra-rohaniasl/Power-BI/blob/main/superstore-power-bi-dashboard.pbix)
+![Image Alt Text](https://github.com/Zahra-rohaniasl/Power-BI/blob/main/superstore-power-bi-dashboard-image.jpg)
 
 
 
