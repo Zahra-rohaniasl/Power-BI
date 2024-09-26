@@ -10,9 +10,11 @@ Welcome to my Power BI repository! Here, you'll find a collection of insightful 
 ## Projects
 
 - **Project 1: Amazon Retail Explorer: Boss Leather**
-  - Description: Analyzing sales trends over time, top-selling products, and geographic distribution.
-  - Visualizations: Line Chart, Bar Chart, Map, Pie Chart, ...
   - [View Project](https://github.com/Zahra-rohaniasl/Power-BI/blob/main/amazon-retail-explorer-boss-leathers.pbix)
+![Image Alt Text](https://github.com/Zahra-rohaniasl/Power-BI/blob/main/amazon-retail-explorer-boss-leathers-dashboard.png)
+
+- **Project 2: Superstore**
+  - [View Project](https://github.com/Zahra-rohaniasl/Power-BI/blob/main/power-bi-super-store.pbix)
 ![Image Alt Text](https://github.com/Zahra-rohaniasl/Power-BI/blob/main/amazon-retail-explorer-boss-leathers-dashboard.png)
 
 
